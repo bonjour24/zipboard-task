@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+.formDiv{
+  margin-top: 4%;
+  box-shadow: 2px 2px 4px 0px grey;
+}
+.formDiv label{
+  margin-top: 2%;
+}
+
+#postDiv{
+  height: 300px;
+  overflow-y: scroll;
+}
+
+.card-footer{
+  height: 45px;
+}
+
+#orangeButton{
+  background-color: #ffa500;
+  color: black;
+}
+.fa-trash{
+  cursor: pointer;
+}
